@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Niraj Prajapati on 27/2/21 6:26 PM
+  ~ Copyright (c) 2021 . All rights reserved.
+  ~ Last modified at 27/2/21 6:25 PM
+  -->
+
 <resources>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
